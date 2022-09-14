@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">cafe</string>
+    <string name="welcome">Welcome to the cafe</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="sign">Sign</string>
+    <string name="greetings">Hellow, %s!What do you want to order?</string>
+    <string name="tea">Tea</string>
+    <string name="coffee">Coffee</string>
+    <string name="additives">What to add to your %s?</string>
+    <string name="sugar">Sugar</string>
+    <string name="milk">Milk</string>
+    <string name="lemon">Lemon</string>
+    <string name="choose_type_of_drink">Choose type of drink</string>
+    <string name="make_an_order">Make an order</string>
+    <string name="name">Name:</string>
+    <string name="drink">Drink:</string>
+    <string name="drink_type">Drink type:</string>
+    <string name="additivess">Additives:</string>
+    <string name="errors">Please fill in all the fields</string>
+    <string name="your_reciept">Your reciept</string>
+    <array name="teaTypes">
+        <item>Green</item>
+        <item>Black</item>
+        <item>White</item>
+    </array>
+    <array name="cofeeTypes">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Americano</item>
+    </array>
+</resources>
